@@ -1,0 +1,44 @@
+body{
+   background-image: url(https://media.istockphoto.com/id/843917124/photo/boardwalk-background-texture-of-light-wood-table.jpg?s=612x612&w=0&k=20&c=SBPpX9IgDO_LZ1Dmim5z11ZuSL2Ng0EVI4nM6tyhgH4=);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(23, 36, 153);
+    font-weight: bold;
+    text-align: justify;
+}
+.underline{
+    text-decoration-line: underline;
+    left: auto;
+    top:10px
+    
+}
+.box{
+    border-style: dotted;
+    border-color:rgb(23, 36, 153);
+    border-width: 8px;
+    padding: 3px;
+    margin:auto;
+}
+
+.food{
+
+    border-style: dotted;
+    border-color: rgb(23, 36, 153);
+    border-width: 4px;
+    padding: 1px;
+    background-color: azure;
+   
+}
+
+.tableau{
+    size: 750px;
+    left:auto
+    
+
+}
+
+.position{
+    left:500px
+}
+.center{
+    text-align:center;
+}
